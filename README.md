@@ -1,0 +1,2 @@
+# arrays
+directorio propio
